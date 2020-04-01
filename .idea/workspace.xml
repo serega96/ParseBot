@@ -14,7 +14,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZtTfkU4xeFGLMaq1dB4bdc8Mbv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +26,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SvnConfiguration">
@@ -38,6 +43,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="446" y="246" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585744064883">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="446" y="246" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.826@0.23.1440.826" timestamp="1585744064883" />
+    <state x="365" y="41" key="CommitChangelistDialog2" timestamp="1585744213819">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="365" y="41" key="CommitChangelistDialog2/0.23.1440.826@0.23.1440.826" timestamp="1585744213819" />
+    <state x="320" y="176" key="Vcs.Push.Dialog.v2" timestamp="1585744167198">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="320" y="176" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1585744167198" />
     <state x="413" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1585728138477">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
